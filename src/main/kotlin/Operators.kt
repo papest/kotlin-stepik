@@ -1,5 +1,6 @@
-import TimeInterval.*
 import java.util.*
+import TimeInterval.*
+
 
 enum class TimeInterval { DAY, WEEK, YEAR }
 
